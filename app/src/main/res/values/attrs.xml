@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="XRadioGroup">
+        <attr name="radio_button_textColor" format="reference|color"/>
+        <attr name="radio_button_checked_textColor" format="reference|color"/>
+        <attr name="radio_button_margin_left" format="dimension"/>
+        <attr name="radio_button_margin_right" format="dimension"/>
+        <attr name="radio_button_margin_top" format="dimension"/>
+        <attr name="radio_button_margin_bottom" format="dimension"/>
+    </declare-styleable>
+</resources>
